@@ -1,0 +1,80 @@
+body {
+  background-color: #efefef;
+  font-size: 16px;
+  width: 75%;
+  margin: 0 auto;
+}
+h3 {
+  font-size: 1.5em;
+  color: blue;
+  font-weight: 700;
+  margin: 20px 0;
+  text-align: center;
+}
+.header {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header h1 {
+  font-weight: 800;
+  font-size: 3em;
+  margin: 30px 0 20px 0;
+}
+
+.header img {
+  width: 40%;
+
+}
+
+.header h2 {
+  font-size: 2em;
+}
+
+.personal-data {
+  margin: 20px 0;
+}
+.personal-data span {
+  font-weight: 900;
+  font-size: 1.1em;
+}
+
+.skills {
+  text-align: center;
+}
+.skill {
+  display:inline-block;
+  width: 22%;
+  border: 2px solid #daa;
+  margin: 0 4%;
+  padding: 5%;
+  box-sizing: border-box;
+}
+
+.hobbies li {
+  margin: 10px 0;
+  list-style-type: disc;
+}
+
+.projects li {
+  list-style-type: disc;
+  margin: 15px 0;
+}
+
+.projects a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.links li {
+  width: 5%;
+  margin: 0 6%;
+  box-sizing: border-box;
+  display: inline-block;
+}
+
+.links li img {
+  width: 100%;
+}
+
